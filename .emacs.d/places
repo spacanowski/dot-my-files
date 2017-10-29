@@ -1,0 +1,7 @@
+;;; -*- coding: utf-8 -*-
+(("/mnt/disk/codes/clojure/test/src/test/core.clj" . 32)
+ ("/home/spc/.emacs.d/init.el" . 6604)
+ ("/mnt/disk/codes/clojure/test/project.clj" . 356)
+ ("/mnt/disk/codes/java/boot-vs-wizard/gatling-invader/.ensime_cache/dep-src/source-jars/scala/util/Random.scala" . 4971)
+ ("/mnt/disk/codes/java/boot-vs-wizard/gatling-invader/.ensime_cache/dep-src/source-jars/io/gatling/http/Predef.scala" . 651)
+ ("/mnt/disk/codes/java/boot-vs-wizard/gatling-invader/src/test/scala/pl/spc/invader/gatling/InvaderSimulator.scala" . 90))

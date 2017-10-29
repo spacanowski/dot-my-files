@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ shell
+ cider-jack-in
+ cider-version
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (cider-version . 1)
+ (cider-jack-in . 1)
+ (shell . 4)
+ (package-list-packages . 4)
+)

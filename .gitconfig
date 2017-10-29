@@ -1,0 +1,19 @@
+[hub]
+protocol = https
+
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential
+
+[core]
+excludesfile = /opt/boxen/config/git/gitignore
+[alias]
+	st = status
+	co = checkout
+	cm = commit -am
+	pr = pull --rebase
+	ck = checkout
+[user]
+	name = spacanowski
+	email = spacanowski@gmail.com
+[push]
+	default = simple
