@@ -1,0 +1,36 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/spc/" . ".emacs.d/")
+ ("/mnt/" . "disk/")
+ ("/" . "mnt/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/spc/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/spc/.emacs.d/" (22784 55448 175822 563000) "elpa/" "./" "customizations/" "ac-comphist.dat" ".init.el.swp" "init.el" "auto-save-list/" "../" ".recentf~" ".smex-items" ".recentf" "backups/" "projectile-bookmarks.eld" "themes/" "places")
+
+ ("/mnt/disk/" (22779 20209 427988 835000) "7 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Insygnia +\334mierci.pdf" "Availabilitiestable_EU.docx" "java/" "eic_36217531.pdf" "wons.jpg" "eic_37303900.pdf" "Harry Potter e-book 1-7.zip" "gXTHQpn.jpg" "Availabilities table_EU.doc" "interfaces" "java-design-patterns.pdf" "IMG_20151108_114851571.jpg" "Pacanowski Szymon - cover letter.pdf" "4 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Czara Ognia.pdf" "eclipse/" "sublime_text_3_build_3126_x64.tar.bz2" "knos_stock_req" "eic_36862636.pdf" "duger-big.gif" "2 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Komnata Tajemnic.pdf" "lombok-act" "lost+found/" "Senior+Java+Developer+Gdynia.docx" "Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809.pdf" "macroformatteradp-4-0-2.oxt" "Pacanowski Szymon - CV - eng.odt" "scala-patterns.pdf" "rsz_wons.jpg" "downloads/" "Alfred V. Aho - Data Structures and Algorithms.pdf" "akka.pdf" "shads-blocker-master.zip" "./" "codes/" "6 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Ksi-\340++-\326 P+\246+\351krwi.pdf" "gpg_keys/" "v3.zip" "Kozak Magdalena - cykl o Vesperze Tom 3 - Nikt.pdf" "Java Concurrency in Practice.pdf" ".Trash-1000/" "3 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Wi-\326zie+\344 Azkabanu.pdf" "Kozak Magdalena - cykl o Vesperze Tom 2 - Renegat.epub" "make_vel_great_again.jpg" "ideaIC-2016.3-no-jdk.tar.gz" "akka.odp" "skypeforlinux-64-alpha.deb" "tor-browser-linux64-6.0.7_en-US.tar.xz" "jdk-8u101-linux-x64.tar.gz" "tmpcode/" "debian-8.5.0-amd64-netinst.iso" "sublime_text_3/" "eic_37155863.pdf" "Dockerfile" "Pacanowski Szymon - cover letter.odt" "bilet_mama.pdf" "jessie/" "idea-IC-163.7743.44/" "JD_Backend+Developer_Gluck.docx" "bck/" "DSC07316.JPG" "Pacanowski Szymon - CV - eng.pdf" "5 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Zakon Feniksa.pdf" "lombok-test" "Jaroslaw Grzedowicz - Pan Lodowego Ogrodu TOMY 1-4.rar" "1 cz-\326+\370-\347 - J. K. Rowling - Harry Potter i Kamie+\344 Filozoficzny.pdf" "mini.iso" "shads-blocker-master/" "biurko.jpg" "../" "Kozak Magdalena - cykl o Vesperze Tom 2 - Renegat.pdf" "The Joy of Clojure, 2nd Edition.pdf" "test/" "scala/" "lombok-exp" "bilet_33679447.pdf" "clojure/" "3896279_100009763102.pdf" "bilet_33493535.pdf" "eclipse-jee-neon-R-linux-gtk-x86_64.tar.gz" "jdk1.8.0_101/" "Kozak Magdalena - cykl o Vesperze Tom 3 - Nikt.epub")
+
+ ("/mnt/" (22494 35091 622839 776000) "./" "disk/" "../")
+
+ ("/home/" (22494 36698 438811 1000) "./" "../" "spc/")
+
+ ("/home/spc/" (22784 53603 203855 603000) ".ssh/" ".tooling/" ".ivy2/" "target/" ".scala_history" "Public/" ".mplayer/" ".sbt/" ".nv/" ".ICEauthority" "./" "Pictures/" ".sdkman/" ".thumbnails/" ".java/" ".emacs.d/" ".openshift/" ".gradle/" ".config/" ".eclipse/" ".emacs.d.current/" ".gimp-2.8/" ".IdeaIC2016.3/" "../" "Templates/" ".gstreamer-0.10/" "Desktop/" ".vim/" "Music/" ".lesshst" ".lein/" ".gitconfig" ".swt/" ".profile" ".coursier/" "Calibre Library/" ".gnupg/" ".p2/" ".clippy/" ".oracle_jre_usage/" "TUTORIAL" ".emacs.bak" "get-pip.py" ".bashrc" ".cache/" "Videos/" "Downloads/" ".m2/" ".zshrc" ".viminfo" ".dbus/" ".emacs.d.bak/" ".mozilla/" ".local/" ".gnome/" ".idea-build/" ".gconf/" ".pki/" ".gnome2_private/" ".gnome2/" ".scalaide/" "Documents/" ".bash_logout" ".emacs~" ".nvidia-settings-rc" ".bash_history" "fonts/")
+
+ ("/home/spc/Desktop/" (22494 36755 375133 636000) "./" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
